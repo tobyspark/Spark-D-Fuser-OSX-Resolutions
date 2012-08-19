@@ -1,0 +1,6 @@
+This will install an OS X configuration file for the *spark d-fuser set of resolutions. 
+
+Without this, OS X will display the default list presented by the mixer, which does not include Dual/TripleHead. Ideally, OS X would respond to the EDID pass-through / custom set functionality of the 1T-C2-750, but I have yet to see this happen over all the versions of OS X and machines I've tested since 2009.
+
+Toby Harris, 
+July 2012
